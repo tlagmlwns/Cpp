@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\ch1">
+      <UniqueIdentifier>{6664b3be-5eca-46ac-a13d-6e98414ab3f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch2">
+      <UniqueIdentifier>{105ede23-c5a7-49e6-a688-5825ec5e5c7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch3">
+      <UniqueIdentifier>{df57fa71-8407-46d4-b963-0d0300f0a1db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ch2">
+      <UniqueIdentifier>{f58f7931-33bf-42d7-9145-7d17122e27c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ch1">
+      <UniqueIdentifier>{853447c3-d9c1-4fed-9b69-3bc0a2c329ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ch3">
+      <UniqueIdentifier>{cbf0cfd3-efcc-499f-bca1-54dcab479e21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="3page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="3page_noname_q.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="4page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="4page2.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="5page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="6page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="7page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="9page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="10page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="11page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="12page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="13page.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="14page_q.cpp">
+      <Filter>소스 파일\ch1</Filter>
+    </ClCompile>
+    <ClCompile Include="19page.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="22page.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="23page.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="24page.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="25page.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch2main.cpp">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch3main.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="28page.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch3pratice1.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="Vehicle.cpp">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="28page.h">
+      <Filter>헤더 파일\ch3</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch3pratice1.h">
+      <Filter>헤더 파일\ch3</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch3pratice2.h">
+      <Filter>헤더 파일\ch3</Filter>
+    </ClInclude>
+    <ClInclude Include="19page.h">
+      <Filter>헤더 파일\ch2</Filter>
+    </ClInclude>
+    <ClInclude Include="22page.h">
+      <Filter>헤더 파일\ch2</Filter>
+    </ClInclude>
+    <ClInclude Include="23page.h">
+      <Filter>헤더 파일\ch2</Filter>
+    </ClInclude>
+    <ClInclude Include="24page.h">
+      <Filter>헤더 파일\ch2</Filter>
+    </ClInclude>
+    <ClInclude Include="25page.h">
+      <Filter>헤더 파일\ch2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
