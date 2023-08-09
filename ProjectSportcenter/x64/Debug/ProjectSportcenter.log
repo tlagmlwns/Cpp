@@ -1,6 +1,2 @@
-﻿  GolfMember.cpp
-  PSmain.cpp
-  SwimMember.cpp
-C:\shj\C++\WorkSpace\ProjectSportcenter\SwimMember.cpp(8,2): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
-  member.cpp
-  코드를 생성하고 있습니다...
+﻿  SwimMember.cpp
+  ProjectSportcenter.vcxproj -> C:\shj\C++\Cpp\Project230807\x64\Debug\ProjectSportcenter.exe

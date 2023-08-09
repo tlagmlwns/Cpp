@@ -22,7 +22,7 @@ public:
 };
 class GolfMember : public Member {
 public:
-	char goifid[30];
+	char golfid[30];
 	GolfMember(const char* gmn, const char* gmp, int gmid);
 	void setFee();
 	void showMemberShip();
