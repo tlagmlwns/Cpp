@@ -31,6 +31,9 @@
     <Filter Include="헤더 파일\ch3">
       <UniqueIdentifier>{cbf0cfd3-efcc-499f-bca1-54dcab479e21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch4">
+      <UniqueIdentifier>{7499c639-0db9-4926-934d-9d41a0ea0eef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2page.cpp">
@@ -110,6 +113,27 @@
     </ClCompile>
     <ClCompile Include="Vehicle.cpp">
       <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="37page.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="39page.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="43page_STL_vector.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_vc_card.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="50page.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="54page.cpp">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="45page_STL_algorithm.cpp">
+      <Filter>소스 파일\ch4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

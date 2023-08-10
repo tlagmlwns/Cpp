@@ -141,6 +141,7 @@
     <ClCompile Include="3page_noname_q.cpp" />
     <ClCompile Include="4page.cpp" />
     <ClCompile Include="4page2.cpp" />
+    <ClCompile Include="54page.cpp" />
     <ClCompile Include="5page.cpp" />
     <ClCompile Include="6page.cpp" />
     <ClCompile Include="7page.cpp" />
@@ -151,8 +152,14 @@
     <ClCompile Include="23page.cpp" />
     <ClCompile Include="28page.cpp" />
     <ClCompile Include="Ch3pratice1.cpp" />
+    <ClCompile Include="37page.cpp" />
+    <ClCompile Include="39page.cpp" />
+    <ClCompile Include="50page.cpp" />
     <ClCompile Include="Point.cpp" />
+    <ClCompile Include="45page_STL_algorithm.cpp" />
+    <ClCompile Include="43page_STL_vector.cpp" />
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="STL_vc_card.cpp" />
     <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>
