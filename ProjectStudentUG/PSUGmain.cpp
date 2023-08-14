@@ -3,4 +3,4 @@
 #include "Student.h"
 #include "Score_manager.h"
 using namespace std;
-int main(){  }
+int main() { Score_manager(); }

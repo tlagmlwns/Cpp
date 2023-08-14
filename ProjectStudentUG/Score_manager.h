@@ -1,8 +1,7 @@
 //#pragma once
 #ifndef _Score_manager_
 #define _Score_manager_
-#include "Student.h";
-#include <iostream>
+//#include "Student.h";
 using namespace std;
 void Score_manager();
 void sDataIp();			//1. 데이터 입력
