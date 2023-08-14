@@ -116,6 +116,7 @@ void printAnR() {
 	}
 	else { cout << " 검색 결과 없음" << endl; }
 }
+
 void scoreRanking() {
 	Averages.clear(); //초기화
 	for (itr = vs.begin(); itr != vs.end(); itr++) { //평균 랭킹 추가
