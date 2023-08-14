@@ -61,6 +61,7 @@ void sDataIp() {
 	Student sp(sname, sno, ks, es, ms);
 	vs.push_back(sp); //학생데이터 넣기
 }
+
 void sDataAllOp() {
 	for (itr = vs.begin(); itr != vs.end(); itr++)
 		(*itr).showStudentInfo();
