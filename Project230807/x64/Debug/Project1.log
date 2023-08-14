@@ -1,2 +1,47 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(230807.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  Project1.vcxproj -> C:\shj\C++\Cpp\Project230807\x64\Debug\Project1.exe
+  10page.cpp
+  11page.cpp
+  12page.cpp
+  13page.cpp
+  14page_q.cpp
+  22page.cpp
+  24page.cpp
+  25page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\25page.h(69,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2page.cpp
+  3page.cpp
+  3page_noname_q.cpp
+  4page.cpp
+  4page2.cpp
+  54page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\54page.cpp(42,13): warning C4101: 'exp' :참조되지 않은 지역 변수입니다.
+C:\Users\simh2\source\repos\cpp\Project230807\54page.cpp(43,14): warning C4101: 'exp' :참조되지 않은 지역 변수입니다.
+C:\Users\simh2\source\repos\cpp\Project230807\54page.cpp(55,10): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  5page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\5page.cpp(39,12): warning C4552: '>>': 식의 결과가 사용되지 않습니다.
+  6page.cpp
+  7page.cpp
+  9page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\9page.cpp(12,17): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ch3main.cpp
+  Ch2main.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\25page.h(69,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  19page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\19page.cpp(47,9): warning C4101: 'c3' :참조되지 않은 지역 변수입니다.
+  23page.cpp
+  28page.cpp
+  Ch3pratice1.cpp
+  37page.cpp
+  39page.cpp
+C:\Users\simh2\source\repos\cpp\Project230807\39page.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  50page.cpp
+  Point.cpp
+  45page_STL_algorithm.cpp
+  43page_STL_vector.cpp
+  Student.cpp
+  STL_vc_card.cpp
+  Vehicle.cpp
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\simh2\source\repos\cpp\Project230807\x64\Debug\Project1.exe
