@@ -12,7 +12,6 @@ vector<Student>::iterator itr;
 vector<int> Averages; //평균 벡터
 
 void Score_manager() {
-	vector<Student> vs;
 	cout << " (프로그램 실행)" << endl;
 	cout << " 점수관리 프로그램 입니다." << endl;
 	while (true) {
@@ -72,7 +71,7 @@ void searchSname() {
 	char sname[30];
 	cout << " 학생 이름으로 검색 : ";
 	cin >> sname;
-	vector<Student>::iterator itr = find(vs.begin(), vs.end(), sname);
+	itr = find(vs.begin(), vs.end(), sname);
 
 	if (itr != vs.end()) {
 		cout << " 검색 결과: ";
@@ -85,7 +84,7 @@ void searchSno() {
 	int sno;
 	cout << " 학생 번호로 검색 : ";
 	cin >> sno;
-	vector<Student>::iterator itr = find(vs.begin(), vs.end(), sno);
+	itr = find(vs.begin(), vs.end(), sno);
 
 	if (itr != vs.end()) {
 		cout << " 검색 결과: ";
@@ -104,7 +103,7 @@ void printAnR() {
 
 	char sname[30];
 	cout << " 학생 이름으로 검색 : "; cin >> sname;
-	vector<Student>::iterator itr = find(vs.begin(), vs.end(), sname);
+	itr = find(vs.begin(), vs.end(), sname);
 	if (itr != vs.end()) {
 		cout << " 평균: " << (*itr).getAverage();
 		for (size_t i = 0; i < sorted_indices.size(); ++i) {
